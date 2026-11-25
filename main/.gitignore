@@ -1,0 +1,11 @@
+# Generated files
+index.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/

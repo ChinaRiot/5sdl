@@ -1,0 +1,867 @@
+{
+  "list_name": "5 Star Demon List",
+  "description": "Community-based listing of the hardest ranked 5 star osu!mania maps.",
+  "demons": [
+    {
+      "rank": 1,
+      "name": "!!! IMPULSIVE <!!> WAVE !!!",
+      "creator": "﻿Valedict",
+      "tier": 30.5,
+      "skillsets": [
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2438724#mania/5318853"
+    },
+    {
+      "rank": 2,
+      "name": "Ocean's Legacy",
+      "creator": "AelSan",
+      "tier": 30.0,
+      "skillsets": [
+        "Technical",
+        "Chokepoints",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2541937#mania/5630480"
+    },
+    {
+      "rank": 3,
+      "name": "stresstest",
+      "creator": "Callionet",
+      "tier": 30.0,
+      "skillsets": [
+        "Technical",
+        "Jack",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2613635#mania/5874358"
+    },
+    {
+      "rank": 4,
+      "name": "Akuma no Uta",
+      "creator": "Atman",
+      "tier": 30.0,
+      "skillsets": [
+        "Technical",
+        "Physicality",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2432714#mania/5300575"
+    },
+    {
+      "rank": 5,
+      "name": "Hikari yo",
+      "creator": "elexire",
+      "tier": 29.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2623905#mania/5893700"
+    },
+    {
+      "rank": 6,
+      "name": "Chimera",
+      "creator": "[GB]SuddenDeath",
+      "tier": 29.5,
+      "skillsets": [
+        "Streams",
+        "Technical",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1959243#mania/4059782"
+    },
+    {
+      "rank": 7,
+      "name": "Mare Nectaris (Camellia's \"Ingenii\" Remix)",
+      "creator": "0DZ0",
+      "tier": 29.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2253779#mania/4793983"
+    },
+    {
+      "rank": 8,
+      "name": "Allow",
+      "creator": "Sakuragi Kaware",
+      "tier": 29.0,
+      "skillsets": [
+        "Technical",
+        "Chokepoints",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2375406#mania/5131269"
+    },
+    {
+      "rank": 9,
+      "name": "Hirefuse Gumin-domo! - Hime-sama Go-ranshin All Night Hourai Live -",
+      "creator": "0DZ0",
+      "tier": 29.0,
+      "skillsets": [
+        "Technical",
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2347713#mania/5401607"
+    },
+    {
+      "rank": 10,
+      "name": "Unmeiron",
+      "creator": "Monheim",
+      "tier": 28.5,
+      "skillsets": [
+        "Jack",
+        "Physicality",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2021922#mania/4210848"
+    },
+    {
+      "rank": 11,
+      "name": "Yuuaku no Inori - Anima immortalis est. -",
+      "creator": "RTrigger",
+      "tier": 28.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2479501#mania/5439069"
+    },
+    {
+      "rank": 12,
+      "name": "?_?",
+      "creator": "Naiibe",
+      "tier": 28.0,
+      "skillsets": [
+        "Streams",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2174796#mania/4591692"
+    },
+    {
+      "rank": 13,
+      "name": "To the Hellfire",
+      "creator": "Domajnyk Pear",
+      "tier": 28.0,
+      "skillsets": [
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1991993#mania/4255232"
+    },
+    {
+      "rank": 14,
+      "name": "NANOHANA",
+      "creator": "Ska",
+      "tier": 28.0,
+      "skillsets": [
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1392782#mania/2875490"
+    },
+    {
+      "rank": 15,
+      "name": "Requiem",
+      "creator": "Domajnyk Pear",
+      "tier": 27.5,
+      "skillsets": [
+        "Technical",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2168878#mania/4653183"
+    },
+    {
+      "rank": 16,
+      "name": "Onus Regulus",
+      "creator": "uL-",
+      "tier": 27.0,
+      "skillsets": [
+        "Streams",
+        "Jack",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2046363#mania/4283840"
+    },
+    {
+      "rank": 17,
+      "name": "unravel",
+      "creator": "wddg",
+      "tier": 27.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2388601#mania/5168985"
+    },
+    {
+      "rank": 18,
+      "name": "Charade (feat. Vincente Void & Hash Gordon)",
+      "creator": "epic man 2",
+      "tier": 27.0,
+      "skillsets": [
+        "Streams",
+        "Technical",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2298540#mania/4910518"
+    },
+    {
+      "rank": 19,
+      "name": "stop calling",
+      "creator": "Relae",
+      "tier": 27.0,
+      "skillsets": [
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2484635#mania/5453072"
+    },
+    {
+      "rank": 20,
+      "name": "Rush (Cut Ver.)",
+      "creator": "Hydria",
+      "tier": 27.0,
+      "skillsets": [
+        "Gimmicky",
+        "Physicality",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2081242#mania/4786702"
+    },
+    {
+      "rank": 21,
+      "name": "Jashin no Konrei, Gi wa Ai to Shiru.",
+      "creator": "Carpihat",
+      "tier": 26.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Jumpstream"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2535368#mania/5606802"
+    },
+    {
+      "rank": 22,
+      "name": "Sea of Stars",
+      "creator": "devilcity",
+      "tier": 26.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2483083#mania/5448715"
+    },
+    {
+      "rank": 23,
+      "name": "Circuit Surfer",
+      "creator": "Archaic84",
+      "tier": 26.0,
+      "skillsets": [
+        "Jack",
+        "Technical",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2464514#mania/5480227"
+    },
+    {
+      "rank": 24,
+      "name": "The Azure Arbitrator",
+      "creator": "lemonguy",
+      "tier": 26.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1598591#mania/3264851"
+    },
+    {
+      "rank": 25,
+      "name": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
+      "creator": "Evening",
+      "tier": 26.0,
+      "skillsets": [
+        "Jumpstream",
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1647221#mania/3362200"
+    },
+    {
+      "rank": 26,
+      "name": "Apistat Commander",
+      "creator": "Ninaye",
+      "tier": 26.0,
+      "skillsets": [
+        "Technical",
+        "Chokepoints",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2302552#mania/4921389"
+    },
+    {
+      "rank": 27,
+      "name": "kill the dog",
+      "creator": "Paraxia",
+      "tier": 25.5,
+      "skillsets": [
+        "Technical",
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2126332#mania/4469719"
+    },
+    {
+      "rank": 28,
+      "name": "team edward",
+      "creator": "White Hare",
+      "tier": 25.5,
+      "skillsets": [
+        "Technical",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1858055#mania/4592614"
+    },
+    {
+      "rank": 29,
+      "name": "Tu Falta De Querer",
+      "creator": "Gera",
+      "tier": 25.5,
+      "skillsets": [
+        "Technical",
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2481465#mania/5444493"
+    },
+    {
+      "rank": 30,
+      "name": "can't be anything",
+      "creator": "oid45",
+      "tier": 25.0,
+      "skillsets": [
+        "Technical",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2570403#mania/5720209"
+    },
+    {
+      "rank": 31,
+      "name": "Shinsha / HgS",
+      "creator": "-mint-",
+      "tier": 25.0,
+      "skillsets": [
+        "Jack",
+        "Stamina",
+        "Physicality"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2062237#mania/4311929"
+    },
+    {
+      "rank": 32,
+      "name": "quietly, quietly die",
+      "creator": "Monheim",
+      "tier": 25.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2369290#mania/5119577"
+    },
+    {
+      "rank": 33,
+      "name": "Bookmaker",
+      "creator": "Hydria",
+      "tier": 25.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1305249#mania/3460359"
+    },
+    {
+      "rank": 34,
+      "name": "Calm Down Juliet (What A Drama Queen)",
+      "creator": "epic man 2",
+      "tier": 25.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1819015#mania/3732144"
+    },
+    {
+      "rank": 35,
+      "name": "volcanic (Short Ver.)",
+      "creator": "-Enma-",
+      "tier": 25.0,
+      "skillsets": [
+        "Jack",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2484096#mania/5452618"
+    },
+    {
+      "rank": 36,
+      "name": "The Empress scream off ver",
+      "creator": "Jepetski",
+      "tier": 25.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/315435#mania/713128"
+    },
+    {
+      "rank": 37,
+      "name": "COLORS",
+      "creator": "wddg",
+      "tier": 24.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2412216#mania/5238395"
+    },
+    {
+      "rank": 38,
+      "name": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Omega",
+      "creator": "Alptraum",
+      "tier": 24.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1936926#mania/4244726"
+    },
+    {
+      "rank": 39,
+      "name": "Gunkyouzouteki Soseiriron",
+      "creator": "elexire",
+      "tier": 24.5,
+      "skillsets": [
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2379162#mania/5141188"
+    },
+    {
+      "rank": 40,
+      "name": "Cry",
+      "creator": "Hydria",
+      "tier": 24.5,
+      "skillsets": [
+        "Technical",
+        "Chokepoints",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1313433#mania/3805865"
+    },
+    {
+      "rank": 41,
+      "name": "Risoku",
+      "creator": "caracol",
+      "tier": 24.5,
+      "skillsets": [
+        "Jack",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2616511#mania/5867959"
+    },
+    {
+      "rank": 42,
+      "name": "Bosen",
+      "creator": "Atman",
+      "tier": 24.5,
+      "skillsets": [
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2387241#mania/5164718"
+    },
+    {
+      "rank": 43,
+      "name": "Love Song \"Negradolna\"",
+      "creator": "Valedict",
+      "tier": 24.0,
+      "skillsets": [
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2127480#mania/4472434"
+    },
+    {
+      "rank": 44,
+      "name": "B.O.L.",
+      "creator": "hna",
+      "tier": 24.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2055265#mania/4294594"
+    },
+    {
+      "rank": 45,
+      "name": "Surface Tension",
+      "creator": "Hylotl",
+      "tier": 24.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2435344#mania/5308443"
+    },
+    {
+      "rank": 46,
+      "name": "Cortex Charger",
+      "creator": "-mint-",
+      "tier": 24.0,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2062236#mania/4345082"
+    },
+    {
+      "rank": 47,
+      "name": "Kegarenaki Bara Juuji",
+      "creator": "gzdongsheng",
+      "tier": 24.0,
+      "skillsets": [
+        "Jumpstream",
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2320672#mania/4971502"
+    },
+    {
+      "rank": 48,
+      "name": "Swirls of the Stream",
+      "creator": "datoujia",
+      "tier": 24.0,
+      "skillsets": [
+        "Streams",
+        "Stamina",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1878322#mania/3866394"
+    },
+    {
+      "rank": 49,
+      "name": "Gaviscon (Cut Ver.)",
+      "creator": "Antipole",
+      "tier": 24.0,
+      "skillsets": [
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2298494#mania/4910398"
+    },
+    {
+      "rank": 50,
+      "name": "Dark Sheep",
+      "creator": "Feylos",
+      "tier": 24.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/939798#mania/2624413"
+    },
+    {
+      "rank": 51,
+      "name": "d e a t h p i a n o ~for four pianos~",
+      "creator": "BadDragon",
+      "tier": 24.0,
+      "skillsets": [
+        "Jack",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2378029#mania/5200173"
+    },
+    {
+      "rank": 52,
+      "name": "Blastix Riotz (\"Fullblast\" Long ver.)",
+      "creator": "Penguinosity",
+      "tier": 24.0,
+      "skillsets": [
+        "Jumpstream",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1620414#mania/3308535"
+    },
+    {
+      "rank": 53,
+      "name": "Oxalis",
+      "creator": "Monoseul",
+      "tier": 23.5,
+      "skillsets": [
+        "Jumpstream",
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2386206#mania/5161539"
+    },
+    {
+      "rank": 54,
+      "name": "Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru-",
+      "creator": "0DZ0",
+      "tier": 23.5,
+      "skillsets": [
+        "Streams",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2290609#mania/5055195"
+    },
+    {
+      "rank": 55,
+      "name": "Vibrant",
+      "creator": "Dreamwalker",
+      "tier": 23.5,
+      "skillsets": [
+        "Jack",
+        "Technical",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2181186#mania/4607926"
+    },
+    {
+      "rank": 56,
+      "name": "Love On The Brain",
+      "creator": "Drimba",
+      "tier": 23.5,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2563364#mania/5699426"
+    },
+    {
+      "rank": 57,
+      "name": "Scattered Pancakes (Short Ver.)",
+      "creator": "snomi",
+      "tier": 23.5,
+      "skillsets": [
+        "Technical",
+        "Jack",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2205899#mania/4670327"
+    },
+    {
+      "rank": 58,
+      "name": "The Fucking Apocalypse",
+      "creator": "Znow",
+      "tier": 23.5,
+      "skillsets": [
+        "Streams",
+        "Technical",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2467699#mania/5628779"
+    },
+    {
+      "rank": 59,
+      "name": "I'm For You",
+      "creator": "Reihynn",
+      "tier": 23.5,
+      "skillsets": [
+        "Streams",
+        "Stamina",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2322259#mania/4975670"
+    },
+    {
+      "rank": 60,
+      "name": "TERRAFORGE",
+      "creator": "chy030_ft_pH5_6",
+      "tier": 23.5,
+      "skillsets": [
+        "Technical",
+        "Jumpstream"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2524412#mania/5575110"
+    },
+    {
+      "rank": 61,
+      "name": "Z:iRNiTRA",
+      "creator": "Chandelure",
+      "tier": 23.5,
+      "skillsets": [
+        "Technical",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1882252#mania/3875186"
+    },
+    {
+      "rank": 62,
+      "name": "Sabaku de",
+      "creator": "[GB]SuddenDeath",
+      "tier": 23.5,
+      "skillsets": [
+        "Streams",
+        "Technical",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2304774#mania/5056781"
+    },
+    {
+      "rank": 63,
+      "name": "GEMS D'ARMES",
+      "creator": "RandomeLoL",
+      "tier": 23.0,
+      "skillsets": [
+        "Streams",
+        "Stamina"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2013874#mania/4190867"
+    },
+    {
+      "rank": 64,
+      "name": "Sugar/Tzu",
+      "creator": "Pope Gadget",
+      "tier": 23.0,
+      "skillsets": [
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2435325#mania/5308401"
+    },
+    {
+      "rank": 65,
+      "name": "Internet Exploder",
+      "creator": "James May",
+      "tier": 23.0,
+      "skillsets": [
+        "Technical",
+        "Streams",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2612657#mania/5852770"
+    },
+    {
+      "rank": 66,
+      "name": "Sacamostro Prod. By DJ Kelvin El Sacamostro",
+      "creator": "yocex",
+      "tier": 23.0,
+      "skillsets": [
+        "Streams",
+        "Stamina",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2221034#mania/4709920"
+    },
+    {
+      "rank": 67,
+      "name": "Purple Palace",
+      "creator": "-mint-",
+      "tier": 23.0,
+      "skillsets": [
+        "Streams",
+        "Chokepoints",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1569527#mania/3205077"
+    },
+    {
+      "rank": 68,
+      "name": "Revenge (feat. CaptainSparklez) (ReeK's \"Dude, What's A Genre?\" Remix)",
+      "creator": "-mint-",
+      "tier": 23.0,
+      "skillsets": [
+        "Streams",
+        "Jack",
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1205236#mania/2509739"
+    },
+    {
+      "rank": 69,
+      "name": "Hold Angel",
+      "creator": "Monoseul",
+      "tier": 22.5,
+      "skillsets": [
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2445891#mania/5338803"
+    },
+    {
+      "rank": 70,
+      "name": "TERABYTE",
+      "creator": "[GB]Cinelia",
+      "tier": 22.5,
+      "skillsets": [
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2412599#mania/5241176"
+    },
+    {
+      "rank": 71,
+      "name": "O",
+      "creator": "uL-",
+      "tier": 22.5,
+      "skillsets": [
+        "Technical",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2027374#mania/4225917"
+    },
+    {
+      "rank": 72,
+      "name": "PEACE BREAKER (Cut Ver.)",
+      "creator": "0DZ0",
+      "tier": 22.5,
+      "skillsets": [
+        "Streams",
+        "Technical",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1842152#mania/4712641"
+    },
+    {
+      "rank": 73,
+      "name": "Orthoplexed",
+      "creator": "Disguise",
+      "tier": 22.5,
+      "skillsets": [
+        "Technical",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/1955444#mania/4053258"
+    },
+    {
+      "rank": 74,
+      "name": "Do It",
+      "creator": "Concepte",
+      "tier": 22.5,
+      "skillsets": [
+        "Technical"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2536062#mania/5609159"
+    },
+    {
+      "rank": 75,
+      "name": "Ena",
+      "creator": "lemonguy",
+      "tier": 22.5,
+      "skillsets": [
+        "Stamina",
+        "Jack",
+        "Streams"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2165041#mania/4566964"
+    }
+  ]
+}
