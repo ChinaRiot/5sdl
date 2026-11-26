@@ -409,18 +409,6 @@
     },
     {
       "rank": 36,
-      "name": "The Empress scream off ver",
-      "creator": "Jepetski",
-      "tier": 25.0,
-      "skillsets": [
-        "Jumpstream",
-        "Stamina",
-        "Chokepoints"
-      ],
-      "description": "https://osu.ppy.sh/beatmapsets/315435#mania/713128"
-    },
-    {
-      "rank": 37,
       "name": "COLORS",
       "creator": "wddg",
       "tier": 24.5,
@@ -432,7 +420,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2412216#mania/5238395"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Omega",
       "creator": "Alptraum",
       "tier": 24.5,
@@ -443,7 +431,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/1936926#mania/4244726"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "Gunkyouzouteki Soseiriron",
       "creator": "elexire",
       "tier": 24.5,
@@ -453,7 +441,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2379162#mania/5141188"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "Cry",
       "creator": "Hydria",
       "tier": 24.5,
@@ -465,7 +453,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/1313433#mania/3805865"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Risoku",
       "creator": "caracol",
       "tier": 24.5,
@@ -475,6 +463,18 @@
         "Technical"
       ],
       "description": "https://osu.ppy.sh/beatmapsets/2616511#mania/5867959"
+    },
+    {
+      "rank": 41,
+      "name": "The Empress scream off ver",
+      "creator": "Jepetski",
+      "tier": 24.5,
+      "skillsets": [
+        "Jumpstream",
+        "Stamina",
+        "Chokepoints"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/315435#mania/713128"
     },
     {
       "rank": 42,
