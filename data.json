@@ -223,6 +223,17 @@
     },
     {
       "rank": 20,
+      "name": "can't be anything",
+      "creator": "oid45",
+      "tier": 27.0,
+      "skillsets": [
+        "Technical",
+        "Jack"
+      ],
+      "description": "https://osu.ppy.sh/beatmapsets/2570403#mania/5720209"
+    },
+    {
+      "rank": 21,
       "name": "Rush (Cut Ver.)",
       "creator": "Hydria",
       "tier": 27.0,
@@ -234,7 +245,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2081242#mania/4786702"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "Jashin no Konrei, Gi wa Ai to Shiru.",
       "creator": "Carpihat",
       "tier": 26.5,
@@ -246,7 +257,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2535368#mania/5606802"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "Sea of Stars",
       "creator": "devilcity",
       "tier": 26.5,
@@ -258,7 +269,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2483083#mania/5448715"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "Circuit Surfer",
       "creator": "Archaic84",
       "tier": 26.0,
@@ -270,7 +281,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2464514#mania/5480227"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "The Azure Arbitrator",
       "creator": "lemonguy",
       "tier": 26.0,
@@ -282,7 +293,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/1598591#mania/3264851"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
       "creator": "Evening",
       "tier": 26.0,
@@ -294,7 +305,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/1647221#mania/3362200"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "Apistat Commander",
       "creator": "Ninaye",
       "tier": 26.0,
@@ -306,7 +317,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2302552#mania/4921389"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "kill the dog",
       "creator": "Paraxia",
       "tier": 25.5,
@@ -318,7 +329,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/2126332#mania/4469719"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "team edward",
       "creator": "White Hare",
       "tier": 25.5,
@@ -329,7 +340,7 @@
       "description": "https://osu.ppy.sh/beatmapsets/1858055#mania/4592614"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "Tu Falta De Querer",
       "creator": "Gera",
       "tier": 25.5,
@@ -339,17 +350,6 @@
         "Chokepoints"
       ],
       "description": "https://osu.ppy.sh/beatmapsets/2481465#mania/5444493"
-    },
-    {
-      "rank": 30,
-      "name": "can't be anything",
-      "creator": "oid45",
-      "tier": 25.0,
-      "skillsets": [
-        "Technical",
-        "Jack"
-      ],
-      "description": "https://osu.ppy.sh/beatmapsets/2570403#mania/5720209"
     },
     {
       "rank": 31,

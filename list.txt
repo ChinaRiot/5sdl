@@ -17,6 +17,7 @@ uL- / Onus Regulus: 27 (streams, jack, chokepoints) https://osu.ppy.sh/beatmapse
 wddg / unravel: 27 (streams, chokepoints, technical) https://osu.ppy.sh/beatmapsets/2388601#mania/5168985
 epic man 2 / Charade (feat. Vincente Void & Hash Gordon): 27 (streams, technical, chokepoints) https://osu.ppy.sh/beatmapsets/2298540#mania/4910518
 Relae / stop calling: 27 (technical) https://osu.ppy.sh/beatmapsets/2484635#mania/5453072
+oid45 / can't be anything: 27 (technical, jack) https://osu.ppy.sh/beatmapsets/2570403#mania/5720209
 Hydria / Rush (Cut Ver.): 27 (gimmicky, physicality, jack) https://osu.ppy.sh/beatmapsets/2081242#mania/4786702
 Carpihat / Jashin no Konrei, Gi wa Ai to Shiru.: 26.5 (streams, chokepoints, jumpstream)  https://osu.ppy.sh/beatmapsets/2535368#mania/5606802
 devilcity / Sea of Stars: 26.5 (streams, chokepoints, technical) https://osu.ppy.sh/beatmapsets/2483083#mania/5448715
@@ -27,7 +28,6 @@ Ninaye / Apistat Commander: 26 (technical, chokepoints, streams) https://osu.ppy
 Paraxia / kill the dog: 25.5 (technical, streams, stamina) https://osu.ppy.sh/beatmapsets/2126332#mania/4469719
 White Hare / team edward: 25.5 (technical, streams) https://osu.ppy.sh/beatmapsets/1858055#mania/4592614
 Gera / Tu Falta De Querer: 25.5 (technical, streams, chokepoints) https://osu.ppy.sh/beatmapsets/2481465#mania/5444493
-oid45 / can't be anything: 25 (technical, jack) https://osu.ppy.sh/beatmapsets/2570403#mania/5720209
 -mint- / Shinsha / HgS: 25 (jack, stamina, physicality) https://osu.ppy.sh/beatmapsets/2062237#mania/4311929
 Monheim / quietly, quietly die: 25 (streams, chokepoints) https://osu.ppy.sh/beatmapsets/2369290#mania/5119577
 Hydria / Bookmaker: 25 (streams, chokepoints) https://osu.ppy.sh/beatmapsets/1305249#mania/3460359
